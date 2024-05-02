@@ -1,0 +1,7 @@
+program test;
+var a , b : integer;
+begin
+a := 150;
+read(b ;
+write(b);
+end .
